@@ -24,6 +24,8 @@
 
 stream-bot-landing/
 
+├──img/ # Хранение медиа
+
 ├── index.html # Главная страница
 
 ├── style.css # Стили сайта
