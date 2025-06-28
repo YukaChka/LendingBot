@@ -35,9 +35,6 @@ stream-bot-landing/
 └── README.md # Описание проекта
 
 
-## 🔗 Ссылка на бота
-
-[Запустить Telegram-бота]([https://t.me/StreamCoinsBot](https://t.me/StreamCoinsBot))
 
 ## 👨‍🎓 О проекте
 
